@@ -7,6 +7,7 @@ I’m Reido Vidaya Mahardika, a Data Scientist and Data Analyst passionate about
 I have completed several case study projects that demonstrate my ability to work with data end-to-end — from data cleaning to generating actionable insights that support decision-making. Currently, I’m focused on expanding my portfolio and building data-driven solutions for real-world challenges.
 
 I believe that curiosity, persistence, and an analytical mindset are key to unlocking real value from data for both businesses and society.
+
 ---
 
 ## 🚀 About Me
