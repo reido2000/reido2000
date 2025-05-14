@@ -43,7 +43,7 @@ My academic and professional background is not in data — but my curiosity and 
 
 ### 🎓 Education
 - **Hacktiv8 Data Science Bootcamp**
-Core Skills Developed: Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, A/B Testing, and Feature Engineering
+Core Skills Developed: Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, Python, and Feature Engineering
 
 ---
 
