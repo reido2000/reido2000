@@ -1,4 +1,4 @@
-# Reido Vidaya Mahardika - Data Engineer / Data Scientist
+# Reido Vidaya Mahardika - Data Specialist
 👋 Hello and welcome!
 
 I’m Reido Vidaya Mahardika, a Data Scientist and Data Analyst passionate about transforming raw data into impactful insights. With solid training from Hacktiv8’s Data Science program, I’ve developed strong skills in data analysis, visualization, machine learning, and data processing using Python, SQL, and various data science libraries.
@@ -43,7 +43,7 @@ My academic and professional background is not in data — but my curiosity and 
 
 ### 🎓 Education
 - **Hacktiv8 Data Science Bootcamp**
-Core Skills Developed: Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, A/B Testing, and Feature Engineering
+Core Skills Developed: Data Wrangling, Data Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, and Feature Engineering
 
 ---
 
